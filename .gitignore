@@ -1,0 +1,4 @@
+rzlab_center/config/koneksi.php
+*.sql
+Thumbs.db
+.DS_Store
